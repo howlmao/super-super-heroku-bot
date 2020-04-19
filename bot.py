@@ -71,3 +71,4 @@ async def leave(ctx):
     server = ctx.message.guild.voice_client
     await server.disconnect()
 
+client.login(process.env.BOT_TOKEN);
