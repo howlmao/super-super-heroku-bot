@@ -1,10 +1,10 @@
   {
    "name": "Test",
    "description": "Test",
-   "version": "0.0.0",
-   "main": "vault.py",
+   "version": "0..0.0.0",
+   "main": "bot.js",
    "scripts": {
-    "start": "python vaulted.py"
+    "start": "node bot.js"
   },
  "dependencies": {
    "node.js": "11.1.0",
