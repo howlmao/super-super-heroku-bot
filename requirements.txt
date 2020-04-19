@@ -1,5 +1,2 @@
 discord.py
-PyMySQL
-validate_email
-aiomysql
-discord
+requests
