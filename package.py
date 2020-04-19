@@ -4,7 +4,7 @@
    "version": "0.0.0",
    "main": "vault.py",
    "scripts": {
-    "start": "vaulted.py"
+    "start": "python vaulted.py"
   },
  "dependencies": {
    "discord.js": "11.1.0",
