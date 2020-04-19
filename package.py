@@ -7,7 +7,7 @@
     "start": "python vaulted.py"
   },
  "dependencies": {
-   "discord.js": "11.1.0",
+   "discord.py": "11.1.0",
     "request": "2.81.0"
   }
 }
