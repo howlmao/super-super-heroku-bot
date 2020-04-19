@@ -1,1 +1,1 @@
-worker:node vault.py
+worker: python vaulted.py
