@@ -2,9 +2,9 @@
   "name": "vault",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "vault.py",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
