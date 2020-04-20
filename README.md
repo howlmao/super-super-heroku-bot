@@ -1,2 +1,2 @@
-# super-super-heroku-bot
+# vaulted
 Vault
